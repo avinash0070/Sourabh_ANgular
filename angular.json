@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jobDesk"
+    }
+  },
+  "defaultProject": "jobDesk",
+  "cli": {
+    "analytics": "2d9677a8-4a4b-4d83-9336-e2b093ac419a"
+  }
 }

@@ -1,0 +1,26 @@
+.asdf h1
+		{
+			  font-variant:;
+ 			 font-size: 90px;
+ 			 text-align: center; 
+  /*color: white;*/
+ 			 padding-top: 32px;
+  			font-weight:100;
+		}
+	.asdf p
+		{
+			font-variant: small-caps;
+			  font-size: 20px;
+			  text-align: center;
+			  padding: 10px;
+		}
+		.xyz{ 
+			width: 100%;
+		  background: no-repeat center fixed; 
+		  background-size: cover;
+		}
+		.footerconform
+		{
+   			width: 100px;
+   			display: inline-block;
+		}

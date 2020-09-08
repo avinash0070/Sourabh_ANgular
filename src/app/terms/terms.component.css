@@ -1,0 +1,23 @@
+     .adf h1
+	 	{
+			  font-variant:;
+ 			 font-size: 90px;
+ 			 text-align: center; 
+  /*color: white;*/
+ 			 padding-top: 32px;
+  			font-weight:100;
+		}
+	.adf p,li,ul
+		{
+			font-variant: small-caps;
+			  font-size: 17px;
+			  
+		}
+	.adf ul{
+			padding: 10px;
+		}
+	.footerconform
+{
+   width: 100px;
+   display: inline-block;
+}
